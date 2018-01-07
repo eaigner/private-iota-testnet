@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ ! -d "iri" ]; then
-	git clone https://github.com/iotaledger/iri
+	git clone https://github.com/eaigner/iri
 fi
 
 pushd iri

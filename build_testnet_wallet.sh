@@ -2,7 +2,7 @@
 
 rm -rf wallet
 
-git clone https://github.com/iotaledger/wallet
+git clone https://github.com/eaigner/wallet
 
 pushd wallet
 
